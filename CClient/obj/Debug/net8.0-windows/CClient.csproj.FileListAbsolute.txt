@@ -1,0 +1,15 @@
+D:\Projects\CManager\CClient\bin\Debug\net8.0-windows\CClient.exe
+D:\Projects\CManager\CClient\bin\Debug\net8.0-windows\CClient.deps.json
+D:\Projects\CManager\CClient\bin\Debug\net8.0-windows\CClient.runtimeconfig.json
+D:\Projects\CManager\CClient\bin\Debug\net8.0-windows\CClient.dll
+D:\Projects\CManager\CClient\bin\Debug\net8.0-windows\CClient.pdb
+D:\Projects\CManager\CClient\obj\Debug\net8.0-windows\CClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CManager\CClient\obj\Debug\net8.0-windows\CClient.AssemblyInfoInputs.cache
+D:\Projects\CManager\CClient\obj\Debug\net8.0-windows\CClient.AssemblyInfo.cs
+D:\Projects\CManager\CClient\obj\Debug\net8.0-windows\CClient.csproj.CoreCompileInputs.cache
+D:\Projects\CManager\CClient\obj\Debug\net8.0-windows\CClient.sourcelink.json
+D:\Projects\CManager\CClient\obj\Debug\net8.0-windows\CClient.dll
+D:\Projects\CManager\CClient\obj\Debug\net8.0-windows\refint\CClient.dll
+D:\Projects\CManager\CClient\obj\Debug\net8.0-windows\CClient.pdb
+D:\Projects\CManager\CClient\obj\Debug\net8.0-windows\CClient.genruntimeconfig.cache
+D:\Projects\CManager\CClient\obj\Debug\net8.0-windows\ref\CClient.dll

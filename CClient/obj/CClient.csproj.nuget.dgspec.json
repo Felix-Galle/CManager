@@ -1,27 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Felix\\Desktop\\CManager\\Cclient\\Cclient.csproj": {}
+    "D:\\Projects\\CManager\\CClient\\CClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Felix\\Desktop\\CManager\\Cclient\\Cclient.csproj": {
+    "D:\\Projects\\CManager\\CClient\\CClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Felix\\Desktop\\CManager\\Cclient\\Cclient.csproj",
-        "projectName": "Cclient",
-        "projectPath": "C:\\Users\\Felix\\Desktop\\CManager\\Cclient\\Cclient.csproj",
-        "packagesPath": "C:\\Users\\Felix\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Felix\\Desktop\\CManager\\Cclient\\obj\\",
+        "projectUniqueName": "D:\\Projects\\CManager\\CClient\\CClient.csproj",
+        "projectName": "CClient",
+        "projectPath": "D:\\Projects\\CManager\\CClient\\CClient.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\CManager\\CClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Felix\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0-windows"
         ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
         "frameworks": {
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",

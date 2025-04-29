@@ -1,27 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Felix\\Desktop\\CManager\\CServer\\CServer.csproj": {}
+    "D:\\Projects\\CManager\\CServer\\CServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Felix\\Desktop\\CManager\\CServer\\CServer.csproj": {
+    "D:\\Projects\\CManager\\CServer\\CServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Felix\\Desktop\\CManager\\CServer\\CServer.csproj",
+        "projectUniqueName": "D:\\Projects\\CManager\\CServer\\CServer.csproj",
         "projectName": "CServer",
-        "projectPath": "C:\\Users\\Felix\\Desktop\\CManager\\CServer\\CServer.csproj",
-        "packagesPath": "C:\\Users\\Felix\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Felix\\Desktop\\CManager\\CServer\\obj\\",
+        "projectPath": "D:\\Projects\\CManager\\CServer\\CServer.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\CManager\\CServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Felix\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0-windows"
         ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
         "frameworks": {
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
