@@ -1,33 +1,36 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0-windows7.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {}
+    "C:\\Users\\Felix\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\CManager\\CClient\\CClient.csproj",
-      "projectName": "CClient",
-      "projectPath": "D:\\Projects\\CManager\\CClient\\CClient.csproj",
-      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\CManager\\CClient\\obj\\",
+      "projectUniqueName": "C:\\Users\\Felix\\Desktop\\CManager\\Cclient\\Cclient.csproj",
+      "projectName": "Cclient",
+      "projectPath": "C:\\Users\\Felix\\Desktop\\CManager\\Cclient\\Cclient.csproj",
+      "packagesPath": "C:\\Users\\Felix\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Felix\\Desktop\\CManager\\Cclient\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Felix\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net8.0"
+        "net8.0-windows"
       ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
           "projectReferences": {}
         }
       },
@@ -43,8 +46,8 @@
       }
     },
     "frameworks": {
-      "net8.0": {
-        "targetAlias": "net8.0",
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
         "imports": [
           "net461",
           "net462",
@@ -59,6 +62,9 @@
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408/PortableRuntimeIdentifierGraph.json"
