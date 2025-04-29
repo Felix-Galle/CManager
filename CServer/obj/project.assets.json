@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\CManager\\CServer\\CServer.csproj",
+      "projectUniqueName": "D:\\Projects\\CManager\\CServer\\CServer.csproj",
       "projectName": "CServer",
-      "projectPath": "D:\\Desktop\\CManager\\CServer\\CServer.csproj",
+      "projectPath": "D:\\Projects\\CManager\\CServer\\CServer.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\CManager\\CServer\\obj\\",
+      "outputPath": "D:\\Projects\\CManager\\CServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -60,7 +60,7 @@
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           },
-          "Microsoft.WindowsDesktop.App.WPF": {
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
             "privateAssets": "none"
           }
         },

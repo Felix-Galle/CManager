@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\CManager\\CClient\\CClient.csproj",
+      "projectUniqueName": "D:\\Projects\\CManager\\CClient\\CClient.csproj",
       "projectName": "CClient",
-      "projectPath": "D:\\Desktop\\CManager\\CClient\\CClient.csproj",
+      "projectPath": "D:\\Projects\\CManager\\CClient\\CClient.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\CManager\\CClient\\obj\\",
+      "outputPath": "D:\\Projects\\CManager\\CClient\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
