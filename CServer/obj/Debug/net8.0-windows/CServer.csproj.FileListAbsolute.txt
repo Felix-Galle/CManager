@@ -1,0 +1,15 @@
+D:\Projects\CManager\CServer\bin\Debug\net8.0-windows\CServer.exe
+D:\Projects\CManager\CServer\bin\Debug\net8.0-windows\CServer.deps.json
+D:\Projects\CManager\CServer\bin\Debug\net8.0-windows\CServer.runtimeconfig.json
+D:\Projects\CManager\CServer\bin\Debug\net8.0-windows\CServer.dll
+D:\Projects\CManager\CServer\bin\Debug\net8.0-windows\CServer.pdb
+D:\Projects\CManager\CServer\obj\Debug\net8.0-windows\CServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CManager\CServer\obj\Debug\net8.0-windows\CServer.AssemblyInfoInputs.cache
+D:\Projects\CManager\CServer\obj\Debug\net8.0-windows\CServer.AssemblyInfo.cs
+D:\Projects\CManager\CServer\obj\Debug\net8.0-windows\CServer.csproj.CoreCompileInputs.cache
+D:\Projects\CManager\CServer\obj\Debug\net8.0-windows\CServer.sourcelink.json
+D:\Projects\CManager\CServer\obj\Debug\net8.0-windows\CServer.dll
+D:\Projects\CManager\CServer\obj\Debug\net8.0-windows\refint\CServer.dll
+D:\Projects\CManager\CServer\obj\Debug\net8.0-windows\CServer.pdb
+D:\Projects\CManager\CServer\obj\Debug\net8.0-windows\CServer.genruntimeconfig.cache
+D:\Projects\CManager\CServer\obj\Debug\net8.0-windows\ref\CServer.dll
